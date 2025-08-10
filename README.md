@@ -7,7 +7,7 @@ This project uses machine learning to predict future sales based on historical d
 1. **Clone the repo**:
    Click the green "Code" button at the top of this page, copy the link, and run:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Shaik-Roshni25/FUTU-RE_ML_01/blob/main/sales_dashboard.py
 Install the required libraries:
 Make sure you have Python installed. Then, install the necessary libraries by running:
 
